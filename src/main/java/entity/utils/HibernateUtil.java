@@ -1,13 +1,11 @@
-package Entity.Hibernate;
-import Entity.Client.Client;
-import Entity.Planet.Planet;
-import Entity.Ticket.Ticket;
+package entity.utils;
+import entity.client.Client;
+import entity.planet.Planet;
+import entity.ticket.Ticket;
 
 import lombok.Getter;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
-
-import javax.swing.text.html.parser.Entity;
 
 public class HibernateUtil {
     private static final HibernateUtil INSTANCE;

@@ -1,9 +1,9 @@
-import Entity.Client.Client;
-import Entity.Client.ClientCRUDService;
-import Entity.Planet.Planet;
-import Entity.Planet.PlanetCRUDService;
-import Entity.Ticket.Ticket;
-import Entity.Ticket.TicketCRUDService;
+import entity.client.Client;
+import entity.client.ClientCRUDService;
+import entity.planet.Planet;
+import entity.planet.PlanetCRUDService;
+import entity.ticket.Ticket;
+import entity.ticket.TicketCRUDService;
 
 import java.time.Instant;
 

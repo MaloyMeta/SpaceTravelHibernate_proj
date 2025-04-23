@@ -1,7 +1,7 @@
-package Entity.Ticket;
+package entity.ticket;
 
-import Entity.Client.Client;
-import Entity.Planet.Planet;
+import entity.client.Client;
+import entity.planet.Planet;
 import jakarta.persistence.*;
 import lombok.Data;
 

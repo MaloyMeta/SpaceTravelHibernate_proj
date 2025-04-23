@@ -1,4 +1,4 @@
-package Entity.Planet;
+package entity.planet;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

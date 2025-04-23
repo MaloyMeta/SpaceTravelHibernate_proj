@@ -1,4 +1,4 @@
-package Entity.Client;
+package entity.client;
 
 import jakarta.persistence.*;
 import lombok.Data;
